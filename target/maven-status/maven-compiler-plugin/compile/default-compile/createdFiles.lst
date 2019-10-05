@@ -1,0 +1,7 @@
+com\task\developerofall\ejb\CategoryFacadeLocal.class
+com\task\developerofall\resources\JavaEE8Resource.class
+com\task\developerofall\JAXRSConfiguration.class
+com\task\developerofall\models\Category.class
+com\task\developerofall\ejb\CategoryFacade.class
+com\task\developerofall\ejb\AbstractFacade.class
+com\task\developerofall\controller\CategoryController.class
